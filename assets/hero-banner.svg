@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 500" width="100%" height="100%">
+  <defs>
+    <!-- Extremely Subtle Dark Gradient -->
+    <radialGradient id="bg-grad" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#0e0a1b" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#050505" stop-opacity="1"/>
+    </radialGradient>
+
+    <!-- Linear Gradient for Text -->
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#d4d4d8"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Clean Base Background -->
+  <rect width="100%" height="100%" fill="#050505"/>
+  <rect width="100%" height="100%" fill="url(#bg-grad)"/>
+
+  <!-- Minimalist Typography and Layout -->
+  <g transform="translate(800, 250)" text-anchor="middle">
+    <!-- Large, Heavy Sans-Serif Name -->
+    <text y="-20" 
+          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" 
+          font-size="104" 
+          font-weight="900" 
+          letter-spacing="-0.05em" 
+          fill="url(#text-grad)">
+      SUHITH REDDY
+    </text>
+
+    <!-- Clean, Light Tagline -->
+    <text y="55" 
+          font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" 
+          font-size="36" 
+          font-weight="300" 
+          letter-spacing="-0.02em" 
+          fill="#a1a1aa">
+      Building Intelligent Systems.
+    </text>
+
+    <!-- Fine Architectural Separator Line -->
+    <line x1="-300" y1="110" x2="300" y2="110" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1"/>
+
+    <!-- Mixed-case Role Indicators -->
+    <text y="150" 
+          font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" 
+          font-size="14" 
+          font-weight="600" 
+          letter-spacing="0.25em" 
+          fill="rgba(255, 255, 255, 0.4)">
+      AI Engineer • Full Stack Developer • IEEE Researcher
+    </text>
+  </g>
+</svg>
