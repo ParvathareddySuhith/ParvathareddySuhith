@@ -50,10 +50,10 @@
 
 <p align="center">
   <a href="https://github.com/ParvathareddySuhith/Crowd_Density_Estimator_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=ParvathareddySuhith&repo=Crowd_Density_Estimator_Project&theme=github_dark&bg_color=050505&title_color=8b5cf6&icon_color=3b82f6&text_color=a1a1aa&border_color=1f1f1f" alt="Crowd Density Estimator" width="48%" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin?username=ParvathareddySuhith&repo=Crowd_Density_Estimator_Project&theme=github_dark&bg_color=050505&title_color=8b5cf6&icon_color=3b82f6&text_color=a1a1aa&border_color=1f1f1f" alt="Crowd Density Estimator" width="48%" />
   </a>
   <a href="https://github.com/ParvathareddySuhith/HireLens">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=ParvathareddySuhith&repo=HireLens&theme=github_dark&bg_color=050505&title_color=8b5cf6&icon_color=3b82f6&text_color=a1a1aa&border_color=1f1f1f" alt="HireLens" width="48%" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin?username=ParvathareddySuhith&repo=HireLens&theme=github_dark&bg_color=050505&title_color=8b5cf6&icon_color=3b82f6&text_color=a1a1aa&border_color=1f1f1f" alt="HireLens" width="48%" />
   </a>
 </p>
 <p align="center">
@@ -66,7 +66,7 @@
 
 <p align="center">
   <a href="https://github.com/ParvathareddySuhith/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=ParvathareddySuhith&repo=portfolio&theme=github_dark&bg_color=050505&title_color=8b5cf6&icon_color=3b82f6&text_color=a1a1aa&border_color=1f1f1f" alt="Portfolio" width="48%" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin?username=ParvathareddySuhith&repo=portfolio&theme=github_dark&bg_color=050505&title_color=8b5cf6&icon_color=3b82f6&text_color=a1a1aa&border_color=1f1f1f" alt="Portfolio" width="48%" />
   </a>
 </p>
 <p align="center">
@@ -141,8 +141,8 @@ I'm beginning my open source journey by contributing to AI, developer tools, and
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParvathareddySuhith&show_icons=true&theme=github_dark&bg_color=050505&title_color=8b5cf6&icon_color=3b82f6&text_color=a1a1aa&border_color=1f1f1f" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ParvathareddySuhith&layout=compact&theme=github_dark&bg_color=050505&title_color=8b5cf6&icon_color=3b82f6&text_color=a1a1aa&border_color=1f1f1f" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=ParvathareddySuhith&show_icons=true&theme=github_dark&bg_color=050505&title_color=8b5cf6&icon_color=3b82f6&text_color=a1a1aa&border_color=1f1f1f" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=ParvathareddySuhith&layout=compact&theme=github_dark&bg_color=050505&title_color=8b5cf6&icon_color=3b82f6&text_color=a1a1aa&border_color=1f1f1f" alt="Top Languages" width="48%" />
 </p>
 
 <br/>
