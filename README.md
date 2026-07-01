@@ -52,25 +52,25 @@
   <a href="https://github.com/ParvathareddySuhith/Crowd_Density_Estimator_Project">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=ParvathareddySuhith&repo=Crowd_Density_Estimator_Project&theme=github_dark&bg_color=050505&title_color=8b5cf6&icon_color=3b82f6&text_color=a1a1aa&border_color=1f1f1f" alt="Crowd Density Estimator" width="48%" />
   </a>
-  <a href="https://github.com/ParvathareddySuhith/FloatChat">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=ParvathareddySuhith&repo=FloatChat&theme=github_dark&bg_color=050505&title_color=8b5cf6&icon_color=3b82f6&text_color=a1a1aa&border_color=1f1f1f" alt="FloatChat" width="48%" />
+  <a href="https://github.com/ParvathareddySuhith/HireLens">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=ParvathareddySuhith&repo=HireLens&theme=github_dark&bg_color=050505&title_color=8b5cf6&icon_color=3b82f6&text_color=a1a1aa&border_color=1f1f1f" alt="HireLens" width="48%" />
   </a>
 </p>
 <p align="center">
   <code>Crowd Density Estimator</code>: <b>Python • OpenCV • YOLOv8 • IEEE Publication</b>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <code>FloatChat</code>: <b>React • LangChain • FAISS • Node • Postgres</b>
+  <code>HireLens</code>: <b>Python • NLP • Resume Parser • AI Job Matching</b>
 </p>
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/ParvathareddySuhith/Student-Query-Resolution-Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=ParvathareddySuhith&repo=Student-Query-Resolution-Chatbot&theme=github_dark&bg_color=050505&title_color=8b5cf6&icon_color=3b82f6&text_color=a1a1aa&border_color=1f1f1f" alt="Student Query Chatbot" width="48%" />
+  <a href="https://github.com/ParvathareddySuhith/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=ParvathareddySuhith&repo=portfolio&theme=github_dark&bg_color=050505&title_color=8b5cf6&icon_color=3b82f6&text_color=a1a1aa&border_color=1f1f1f" alt="Portfolio" width="48%" />
   </a>
 </p>
 <p align="center">
-  <code>Student Query Bot</code>: <b>Dify • Langflow • RAG • Vector Database</b>
+  <code>portfolio</code>: <b>Next.js • TypeScript • Tailwind CSS • Framer Motion</b>
 </p>
 
 <br/>
