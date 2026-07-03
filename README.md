@@ -55,6 +55,13 @@
 
 <br/>
 
+> ### [Student Query Bot](https://github.com/ParvathareddySuhith/chatbot-for-students-queries)
+> AI-powered academic support assistant utilizing handbook embeddings, Dify, and Langflow workflow logic.  
+> **Dify • Langflow • RAG • Vector Database**  
+> [**→ View Repository**](https://github.com/ParvathareddySuhith/chatbot-for-students-queries)
+
+<br/>
+
 > ### [HireLens](https://github.com/ParvathareddySuhith/HireLens)
 > Explainable resume-to-job-description matching platform using natural language processing.  
 > **Python • NLP • Resume Parser • AI Job Matching**  
