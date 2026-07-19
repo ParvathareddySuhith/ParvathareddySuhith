@@ -2,10 +2,10 @@
 <div align="center">
   <img src="assets/hero-banner.svg" alt="Suhith Reddy" width="100%" />
   <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=a1a1aa&center=true&vCenter=true&width=600&lines=Building+AI+Products;Engineering+Intelligent+Systems;Turning+Research+into+Reality;Always+Learning" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=a1a1aa&center=true&vCenter=true&width=600&lines=Building+Software;Creating+AI+Solutions;Publishing+Research;Contributing+to+Open+Source;Always+Learning" alt="Typing Subtitle" />
   <br/>
   <p align="center">
-    AI Engineer &nbsp;•&nbsp; Computer Vision &nbsp;•&nbsp; LLMs &nbsp;•&nbsp; Research &nbsp;•&nbsp; Open Source
+    Building practical software with AI where it matters.
   </p>
   <p align="center">
     <a href="https://linkedin.com/in/suhith-reddy">LinkedIn</a> &nbsp;•&nbsp; 
@@ -17,9 +17,10 @@
 <br/>
 
 ### Currently Working On
-* **Open Source Contributions**
-* **AI Applications**
-* **System Design**
+* **Building**: Software projects
+* **Learning**: Agentic AI & AI Agents
+* **Preparing**: Campus Placements
+* **Contributing**: To Open Source
 
 <br/>
 <img src="assets/divider.svg" alt="Divider" width="100%" />
@@ -32,47 +33,58 @@
 <br/>
 
 ### Engineering Philosophy
-> I build intelligent software that solves real problems.
+> I enjoy turning research ideas into software people can actually use. Whether I'm building full-stack applications, computer vision systems, or AI-powered tools, I focus on writing clean, practical, and reliable software.
+
+<br/>
+
+### Why I Build
+I enjoy solving problems where software can create real value. Learning new technologies is exciting, but building something people can actually use is what motivates me most.
 
 <br/>
 
 ### Current Focus
-* **Building**: AI-powered applications
-* **Learning**: Agentic AI & System Design
-* **Contributing**: Open Source
-* **Preparing**: Software Engineering & AI Internships
+* **Building**: Software projects
+* **Learning**: Agentic AI & AI Agents
+* **Preparing**: Campus Placements
+* **Contributing**: To Open Source
 
 <br/>
 <img src="assets/divider.svg" alt="Divider" width="100%" />
 <br/>
 
-### Featured Repositories
+### Featured Projects
 
-> ### [Crowd Density Estimator](https://github.com/ParvathareddySuhith/Crowd_Density_Estimator_Project)
-> Real-time crowd safety monitoring and risk alert pipeline.  
-> **Python • OpenCV • YOLOv8 • IEEE Publication**  
-> [**→ View Repository**](https://github.com/ParvathareddySuhith/Crowd_Density_Estimator_Project)
+---
 
-<br/>
+#### [Crowd Density Estimator](https://github.com/ParvathareddySuhith/Crowd_Density_Estimator_Project)
+*IEEE Published Research Project*
 
-> ### [Student Query Bot](https://github.com/ParvathareddySuhith/chatbot-for-students-queries)
-> AI-powered academic support assistant utilizing handbook embeddings, Dify, and Langflow workflow logic.  
-> **Dify • Langflow • RAG • Vector Database**  
-> [**→ View Repository**](https://github.com/ParvathareddySuhith/chatbot-for-students-queries)
+Real-time crowd safety monitoring system using YOLOv8, ByteTrack, and OpenCV. **Accepted for publication at IEEE RCSM 2025.**
 
-<br/>
+**Tech**: `Python` • `YOLOv8` • `OpenCV` • `Deep Learning`  
+[**→ View Repository**](https://github.com/ParvathareddySuhith/Crowd_Density_Estimator_Project)
 
-> ### [HireLens](https://github.com/ParvathareddySuhith/HireLens)
-> Explainable resume-to-job-description matching platform using natural language processing.  
-> **Python • NLP • Resume Parser • AI Job Matching**  
-> [**→ View Repository**](https://github.com/ParvathareddySuhith/HireLens)
+---
 
-<br/>
+#### [HireLens](https://github.com/ParvathareddySuhith/HireLens)
+*Explainable Resume Matching Platform*
 
-> ### [portfolio](https://github.com/ParvathareddySuhith/portfolio)
-> High-performance developer portfolio showcasing custom motion layouts.  
-> **Next.js • TypeScript • Tailwind CSS • Framer Motion**  
-> [**→ View Repository**](https://github.com/ParvathareddySuhith/portfolio)
+AI-powered resume matching platform with explainable candidate ranking.
+
+**Tech**: `Python` • `NLP` • `Resume Parser` • `AI Job Matching`  
+[**→ View Repository**](https://github.com/ParvathareddySuhith/HireLens)
+
+---
+
+#### [portfolio](https://github.com/ParvathareddySuhith/portfolio)
+*Personal Engineering Portfolio*
+
+Personal portfolio website. **Optimized for performance, accessibility, and smooth animations using Next.js and Framer Motion.**
+
+**Tech**: `Next.js` • `TypeScript` • `Tailwind CSS` • `Framer Motion`  
+[**→ View Repository**](https://github.com/ParvathareddySuhith/portfolio)
+
+---
 
 <br/>
 
@@ -120,20 +132,32 @@
 
 <br/>
 
-### Achievements
-* **IEEE Publication**: Primary author of crowd-monitoring CV system accepted at RCSM 2025.
-* **LeetCode Performance**: Rating of **1535**, 300+ problems solved, earned 50 Days Badge.
-* **Research Internship**: Two separate internship terms focusing on vision automation at Chennai Institute of Technology.
-* **Ideathon 2025**: Qualified for the Final Round with an intelligent system prototype.
+### Highlights
+* **IEEE Research Publication** (RCSM 2025)
+* **300+ LeetCode Problems** (1535 Peak Rating)
+* **Research Internships** – Vision Automation @ CIT
+* **Ideathon 2025 Finalist**
+
+<br/>
+
+### Currently Learning
+* **Agentic AI & AI Agents**
+* **Retrieval-Augmented Generation (RAG)**
+* **System Design & Scalable Architectures**
+* **Open Source Collaboration**
 
 <br/>
 
 ### Open Source Journey
-I'm beginning my open source journey by contributing to AI, developer tools, and production-ready software. My goal isn't just to contribute code—it's to learn from experienced engineers and build software that people actually use.
+I contribute to AI tooling and production software to learn from the community and build tools that people actually use.
 
 * [x] First meaningful contribution
-* [ ] Consistent weekly contributions
 * [ ] Learn by collaborating on core repositories
+
+<br/>
+
+### Beyond the Code
+Beyond building projects, I enjoy exploring new technologies, sharpening my problem-solving skills, and learning from the open-source community. I'm always looking for opportunities to build better software and grow as an engineer.
 
 <br/>
 <img src="assets/divider.svg" alt="Divider" width="100%" />
@@ -141,10 +165,15 @@ I'm beginning my open source journey by contributing to AI, developer tools, and
 
 ### GitHub Analytics
 
+<!--
+GitHub Stats temporarily disabled because of public API rate limiting.
+Enable again after self-hosting github-readme-stats.
+
 <p align="center">
   <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=ParvathareddySuhith&show_icons=true&theme=github_dark&bg_color=050505&title_color=8b5cf6&icon_color=3b82f6&text_color=a1a1aa&border_color=1f1f1f" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=ParvathareddySuhith&layout=compact&theme=github_dark&bg_color=050505&title_color=8b5cf6&icon_color=3b82f6&text_color=a1a1aa&border_color=1f1f1f" alt="Top Languages" width="48%" />
 </p>
+-->
 
 <br/>
 
@@ -175,6 +204,6 @@ I'm beginning my open source journey by contributing to AI, developer tools, and
 <br/><br/>
 <p align="center">
   <code>────────────────────────────────────────</code><br/>
-  <b>Always building. Always learning. Always shipping.</b><br/>
+  <b>Thanks for visiting. Let's build something meaningful together.</b><br/>
   <code>────────────────────────────────────────</code>
 </p>
