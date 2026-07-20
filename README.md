@@ -2,7 +2,7 @@
 <div align="center">
   <img src="assets/hero-banner.svg" alt="Suhith Reddy" width="100%" />
   <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=a1a1aa&center=true&vCenter=true&width=600&lines=Building+Software;Creating+AI+Solutions;Publishing+Research;Contributing+to+Open+Source;Always+Learning" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=a1a1aa&center=true&vCenter=true&width=600&lines=Building+Software;Building+AI+Solutions;Publishing+Research;Contributing+to+Open+Source;Growing+Every+Day" alt="Typing Subtitle" />
   <br/>
   <p align="center">
     Building practical software with AI where it matters.
@@ -26,31 +26,16 @@
 <img src="assets/divider.svg" alt="Divider" width="100%" />
 <br/>
 
-<p align="center">
-  AI Applications &nbsp;&nbsp;•&nbsp;&nbsp; Computer Vision &nbsp;&nbsp;•&nbsp;&nbsp; LLM &amp; RAG Systems &nbsp;&nbsp;•&nbsp;&nbsp; Full Stack Products
-</p>
-
-<br/>
-
 ### Engineering Philosophy
 > I enjoy turning research ideas into software people can actually use. Whether I'm building full-stack applications, computer vision systems, or AI-powered tools, I focus on writing clean, practical, and reliable software.
 
-<br/>
-
-### Why I Build
 I enjoy solving problems where software can create real value. Learning new technologies is exciting, but building something people can actually use is what motivates me most.
-
-<br/>
-
-### Current Focus
-* **Building**: Software projects
-* **Learning**: Agentic AI & AI Agents
-* **Preparing**: Campus Placements
-* **Contributing**: To Open Source
 
 <br/>
 <img src="assets/divider.svg" alt="Divider" width="100%" />
 <br/>
+
+These projects represent the areas I enjoy building in most—from AI research to full-stack software engineering.
 
 ### Featured Projects
 
@@ -88,17 +73,17 @@ Personal portfolio website. **Optimized for performance, accessibility, and smoo
 
 <br/>
 
-### Research Spotlight
+### Research
 
-**Real-Time Stampede Prevention Using Crowd Density Estimation and Alert System**  
-*Published at IEEE RCSM 2025*  
-`YOLOv8` • `OpenCV` • `Multi-Camera Analytics`
+My IEEE-published work explores real-time crowd safety using computer vision techniques including object detection, tracking, and density estimation.
 
-* Engineered multi-camera vision pipelines using YOLO and custom density grid overlays to automate crowd safety monitoring.
+The project was accepted for publication at IEEE RCSM 2025 and reflects my interest in applying AI to real-world safety challenges.
 
 <br/>
 
 ### Tech Stack
+
+These are the technologies I use most often to build software, AI-powered applications, and full-stack solutions.
 
 <div align="center">
 
@@ -148,11 +133,10 @@ Personal portfolio website. **Optimized for performance, accessibility, and smoo
 
 <br/>
 
-### Open Source Journey
-I contribute to AI tooling and production software to learn from the community and build tools that people actually use.
+### Open Source
+I'm actively beginning my open-source journey by contributing to projects that strengthen my engineering skills and allow me to collaborate with the developer community.
 
-* [x] First meaningful contribution
-* [ ] Learn by collaborating on core repositories
+My goal is to make consistent, meaningful contributions while learning from real-world codebases.
 
 <br/>
 
@@ -193,7 +177,7 @@ Enable again after self-hosting github-readme-stats.
 
 ### Let's Connect
 <p align="center">
-  Research &nbsp;&nbsp;•&nbsp;&nbsp; Open Source &nbsp;&nbsp;•&nbsp;&nbsp; Internships &nbsp;&nbsp;•&nbsp;&nbsp; Collaboration
+  Software Engineering &nbsp;&nbsp;•&nbsp;&nbsp; AI &nbsp;&nbsp;•&nbsp;&nbsp; Research &nbsp;&nbsp;•&nbsp;&nbsp; Collaboration
 </p>
 
 <div align="center">
